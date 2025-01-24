@@ -29,6 +29,6 @@ Clue 7: Found The Police Officer at /school/cafeteria
 
 Clue 8: Check the aisles in the shop
 
-Clue 9: 
+Clue 9: !!! FOUND CRIME SCENE !!! --> Shops 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
