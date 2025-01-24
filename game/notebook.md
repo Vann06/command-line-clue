@@ -41,4 +41,8 @@ Clue 12: Found Object of Heavy Book at /shops/market/aisles/
 
 Clue 13: New information suggests returning to the shops
 
+Clue 14: Found The Carpenter at /houses/mansion/garden
+
+
+
 Location of the crime is still unknown - the room must have been empty when it happened...
