@@ -27,6 +27,8 @@ Clue 6: Found objects: Iron Poker at /park/gazebo
 
 Clue 7: Found The Police Officer at /school/cafeteria 
 
+Clue 8: Check the aisles in the shop
 
+Clue 9: 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
