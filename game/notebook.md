@@ -51,3 +51,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 
 Clue 17: Found Antique Compass at /park/playground
 
+Clue 18: Found The Librarian at /park/gazebo
