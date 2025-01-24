@@ -48,3 +48,6 @@ Clue 15: Found The Chef at /houses/mansion/garden/greenhouse
 
 Clue 16: Found The Banker at /houses/mansion/garden/greenhouse
 Location of the crime is still unknown - the room must have been empty when it happened...
+
+Clue 17: Found Antique Compass at /park/playground
+
