@@ -31,4 +31,7 @@ Clue 8: Check the aisles in the shop
 
 Clue 9: !!! FOUND CRIME SCENE !!! --> Shops 
 
+Clue 10: Found The Tailor at /shops/market/stockroom/
+
+
 Location of the crime is still unknown - the room must have been empty when it happened...
