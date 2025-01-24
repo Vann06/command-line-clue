@@ -70,3 +70,5 @@ Clue 25: Found The Musician at /town hall/offices/meeting rooms/council chamber
 Clue 26: Found object: Magnifying Class at /town hall/offices/meeting rooms/council chamber
 
 Clue 27: Found object: Steel Ruler at /town hall/offices/meeting rooms/council chamber
+
+Clue 28: The main suspect is The Baker using the Garden Shears
