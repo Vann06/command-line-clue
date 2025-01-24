@@ -21,7 +21,7 @@ Clue 3: Found The Blacksmith at /houses/mansion/library
 
 Clue 4: Go to the cafeteria in the school 
 
-
+Clue 5: Found objects: Crystal Vase
 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
