@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Garden Shears
-- [ ] Heavy Book
+- [X] Heavy Book
 - [X] Crystal Vase
 
 ## Notes
@@ -37,6 +37,7 @@ Clue 11: Since we found the crime scene we can mark up
 The Police Oficer and The Blacksmith as innocent.
 Leaving The Baker as the only suspect
 
+Clue 12: Found Object of Heavy Book at /shops/market/aisles/ 
 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
