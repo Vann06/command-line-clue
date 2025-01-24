@@ -41,8 +41,9 @@ Clue 12: Found Object of Heavy Book at /shops/market/aisles/
 
 Clue 13: New information suggests returning to the shops
 
+------ Recap of the places -----
 Clue 14: Found The Carpenter at /houses/mansion/garden
 
-
+Clue 15: Found The Chef at /houses/mansion/garden/greenhouse
 
 Location of the crime is still unknown - the room must have been empty when it happened...
