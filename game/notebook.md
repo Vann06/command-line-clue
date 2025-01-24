@@ -57,4 +57,8 @@ Clue 19: Found The Clockmaker at /park/gazebo
 
 Clue 20: Found object: Fountain Pen at /school/gymnasium
 
-Clue 21: Found object: Leather Gloves
+Clue 21: Found object: Leather Gloves at /school/classrooms/
+
+Clue 22: Found The Gardener at /school/classrooms/science lab
+
+Clue 23: 
