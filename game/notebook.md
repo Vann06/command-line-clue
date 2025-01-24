@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Garden Shears
 - [ ] Heavy Book
-- [ ] Crystal Vase
+- [X] Crystal Vase
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -24,4 +24,9 @@ Clue 4: Go to the cafeteria in the school
 Clue 5: Found objects: Crystal Vase at /park/gazebo
 
 Clue 6: Found objects: Iron Poker at /park/gazebo
+
+Clue 7: Found The Police Officer at /school/cafeteria 
+
+
+
 Location of the crime is still unknown - the room must have been empty when it happened...
