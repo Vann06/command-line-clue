@@ -37,7 +37,7 @@ Clue 11: Since we found the crime scene we can mark up
 The Police Oficer and The Blacksmith as innocent.
 Leaving The Baker as the only suspect
 
-Clue 12: Found Object of Heavy Book at /shops/market/aisles/ 
+Clue 12: Found objects: Heavy Book at /shops/market/aisles/ 
 
 Clue 13: New information suggests returning to the shops
 
@@ -49,8 +49,12 @@ Clue 15: Found The Chef at /houses/mansion/garden/greenhouse
 Clue 16: Found The Banker at /houses/mansion/garden/greenhouse
 Location of the crime is still unknown - the room must have been empty when it happened...
 
-Clue 17: Found Antique Compass at /park/playground
+Clue 17: Found objects: Antique Compass at /park/playground
 
 Clue 18: Found The Librarian at /park/gazebo
 
 Clue 19: Found The Clockmaker at /park/gazebo
+
+Clue 20: Found object: Fountain Pen at /school/gymnasium
+
+Clue 21: Found object: Leather Gloves
