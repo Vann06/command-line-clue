@@ -15,6 +15,7 @@
 
 Clue 1: The Police Officer, unusual sounds coming from the library last night 
 
+Clue 2: Go to the gazebo in the park. 
 
 
 
