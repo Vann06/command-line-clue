@@ -62,3 +62,5 @@ Clue 21: Found object: Leather Gloves at /school/classrooms/
 Clue 22: Found The Gardener at /school/classrooms/science lab
 
 Clue 23: Found object: Paint Brush at /school/classrooms/science lab 
+
+Clue 24: Found object: Brass Candlestick at /town hall/offices
