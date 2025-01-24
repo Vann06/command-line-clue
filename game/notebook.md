@@ -19,7 +19,7 @@ Clue 2: Go to the gazebo in the park.
 
 Clue 3: Found The Blacksmith at /houses/mansion/library
 
-
+Clue 4: Go to the cafeteria in the school 
 
 
 
