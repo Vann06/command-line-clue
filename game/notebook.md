@@ -1,9 +1,9 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Blacksmith
+- [X] The Blacksmith
 - [ ] The Baker
-- [ ] The Police Officer
+- [X] The Police Officer
 
 ## Weapons
 - [ ] Garden Shears
@@ -32,6 +32,11 @@ Clue 8: Check the aisles in the shop
 Clue 9: !!! FOUND CRIME SCENE !!! --> Shops 
 
 Clue 10: Found The Tailor at /shops/market/stockroom/
+
+Clue 11: Since we found the crime scene we can mark up 
+The Police Oficer and The Blacksmith as innocent.
+Leaving The Baker as the only suspect
+
 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
